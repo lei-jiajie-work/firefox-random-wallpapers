@@ -1,0 +1,11 @@
+@-moz-document url("about:newtab"), url("about:home"), url(about:privatebrowsing) {	
+	body{ 
+	  background-image: url("<your background here>") !important;
+		background-size: cover !important;
+		background-color: transparent !important;
+		background-repeat: no-repeat !important;
+		background-attachment: fixed !important;
+		background-position-x: center !important;
+		background-position-y: center !important;  
+	}
+}
