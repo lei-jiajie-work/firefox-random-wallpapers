@@ -10,6 +10,7 @@ Only images can be in the wallpaper folder.
 
 It will work with multiple profiles, but the wallpaper folder must be named the same thing in all the chrome folders.
 It is recommended that you include this script in your startup applications and backup your files.
+You must make it executable.
 
 
 There are two arguments: "-wi" and an integer to manually select the wallpaper, or "-wn" and a name to manually select the wallpaper. 
